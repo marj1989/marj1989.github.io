@@ -17,5 +17,10 @@
       font-family: 'Quattrocento', serif;   
       }
       a {
-        color: #96c6ff
+      color: #96c6ff
       }
+    p{
+      color: snow;
+      font-family: 'Oswald', sans-serif;
+      text-align: center;
+    }
