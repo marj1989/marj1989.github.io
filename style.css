@@ -1,1 +1,21 @@
-
+    html {
+        text-align: center;
+        margin: 0 auto 0 auto;
+      
+    }
+    body{
+      background-color: slategray;
+      background-image: url(http://img00.deviantart.net/a63e/i/2005/165/4/3/the_workstation_2_by_jujika.jpg);
+      background-size: cover;
+      color: snow;
+      font-family: 'Oswald', sans-serif;
+      text-align: center;
+    }
+    
+    h1{
+      color: #96c6ff;
+      font-family: 'Quattrocento', serif;   
+      }
+      a {
+        color: #96c6ff
+      }
