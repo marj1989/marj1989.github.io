@@ -16,9 +16,7 @@
       font-family: 'Quattrocento', serif;  
       font-size: 60px;
       }
-      a {
-      color: #96c6ff
-      }
+     
     p{
       color: snow;
       font-family: 'Oswald', sans-serif;
@@ -28,6 +26,9 @@
     nav a{
         Color: #fff;
         text-decoration: none;
+        background-color: #96c6ff;
+        border-radius: 2px;
+        padding: 4;
     }
     nav a
 :visited{
