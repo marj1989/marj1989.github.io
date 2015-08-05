@@ -27,4 +27,9 @@
     }
     nav a{
         Color: #fff;
+        text-decoration: none;
     }
+    nav a
+:visited{
+    color: #fff;
+}
