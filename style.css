@@ -43,3 +43,10 @@
 :visited{
     color: #fff;
 }
+ul{
+  font-size: 45px;  
+}
+img{
+    margin:2px 2px 2px 2px;
+    border-radius: 1px;
+}
