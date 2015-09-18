@@ -13,19 +13,7 @@
       background-repeat: no-repeat;
     }
     
-    h1{
-      color: #96c6ff;
-      font-family: 'Quattrocento', serif;  
-      font-size: 60px;
-      }
-     
-    p{
-      color: snow;
-      font-family: 'Oswald', sans-serif;
-      font-size: 20px;
-      text-align: center;
-    }
-    nav a{
+     nav a{
 
          Color: #fff;
         text-decoration: none;
@@ -39,6 +27,20 @@
         left: 10px;
         
     }
+    
+    h1{
+      color: #96c6ff;
+      font-family: 'Quattrocento', serif;  
+      font-size: 60px;
+      }
+     
+    p{
+      color: snow;
+      font-family: 'Oswald', sans-serif;
+      font-size: 20px;
+      text-align: center;
+    }
+   
     nav a
 :visited{
     color: #fff;
