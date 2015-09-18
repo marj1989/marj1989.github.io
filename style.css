@@ -28,10 +28,6 @@
     nav a{
         Color: #fff;
         text-decoration: none;
-        background-color: #96c6ff;
-        border-radius: 2px;
-        padding: 4px;
-        margin:2px 2px 2px 2px;
     }
     nav {
         position: absolute;
