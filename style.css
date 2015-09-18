@@ -26,8 +26,12 @@
       text-align: center;
     }
     nav a{
-        Color: #fff;
+
+         Color: #fff;
         text-decoration: none;
+        background-color: #96c6ff;
+        padding: 4px;
+        margin:2px 2px 2px 2px;
     }
     nav {
         position: absolute;
