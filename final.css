@@ -19,14 +19,14 @@ position: relative;
 top:100px;
 }
 .jumbotron h1 {
-color: #fff;
-font-size: 48px;
+color: #E80C0C;
+font-size: 50px;
 font-family: 'Shift', sans-serif;
 font-weight: bold;
 }
 .jumbotron p {
-font-size: 20px;
-color: #fff;
+font-size: 25px;
+color: #E80C0C;
 }
 .learn-more {
 background-color: #f7f7f7;
@@ -44,7 +44,7 @@ background-color: #efefef;
 border-bottom: 1px solid #dbdbdb;
 }
 .neighborhood-guides h2{
-color: #393c3d;
+color: #E80C0C;
 font-size: 24px;
 }
 .neighborhood-guides p{
