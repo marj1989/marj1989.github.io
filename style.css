@@ -15,11 +15,12 @@
     
      nav a{
         color: #fff;
-         background-color: #96c6ff;
+        background-color: #96c6ff;
         font-family: 'Quattrocento', serif;  
         text-decoration: none;
-       
         margin: 0 auto;
+        padding: 0 10px;
+        display: inline-block;
     }
     nav {
         position: absolute;
