@@ -1,15 +1,15 @@
 .nav a {
-color: #5a5a5a;
-font-size: 11px;
+color: #000000;
+font-size: 16px;
 font-weight: bold;
-padding: 14px 10px;
+padding: 18px 12px;
 text-transform: uppercase;
 }
 .nav li {
 display: inline;
 }
 .jumbotron {
-background-image:url('http://goo.gl/04j7Nn');
+background-image:url(http://vagrantsneaker.files.wordpress.com/2011/07/a-few-good-things-store-3.jpg);
 height: 500px;
 background-repeat: no-repeat;
 background-size: cover;
