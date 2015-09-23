@@ -14,7 +14,8 @@
     }
     
      nav a{
-        Color: #fff;
+        color: #fff;
+         background-color: #96c6ff;
         font-family: 'Quattrocento', serif;  
         text-decoration: none;
        
