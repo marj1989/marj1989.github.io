@@ -1,20 +1,40 @@
 <!doctype html>
 <head>
+  <title>My Digital Art</title>
  <link href='https://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'>
  <link href='https://fonts.googleapis.com/css?family=Quattrocento' rel='stylesheet' type='text/css'>
    <link href='style.css' rel='stylesheet'>
-  <title>My Digital Art</title>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.3/css/lightgallery.css">
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script> 
+12  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.1/js/lightgallery.js"></script> 
+13  <script type="text/javascript"> 
+14     $(document).ready(function() { 
+15         $("#lightgallery").lightGallery();  
+16     }); 
+17 </script> 
+
 </head>
 <body>
   <nav><a href="index.html">Home</a><a href="about.html">About Me</a><a href="portfolio.html">Portfolio</a><a href="resume.html">Resume</a><a href="contact.html">Contact Me</a>
   </nav><br>
   <h1>Digital Art</h1>
-  <img height="500" src="http://i.imgur.com/odoTdDO.jpg" alt="Neka Invite">
+  <div id="lightgallery">
+   <a href="http://i.imgur.com/odoTdDO.jpg">
+   <img height="500" src="http://i.imgur.com/odoTdDO.jpg" alt="Neka Invite">
+  </a>
+  <a href="http://i.imgur.com/y8nDzNA.jpg">
   <img height="500" src="http://i.imgur.com/y8nDzNA.jpg" alt="Khali Invite">
+  </a>
+  <a href="http://i.imgur.com/onVOAmE.jpg">
   <img height="500" src="http://i.imgur.com/onVOAmE.jpg" alt="KB Sharp Logo">
+  </a>
+   <a href="http://i.imgur.com/7HfwbtW.jpg">
   <img height="500" src="http://i.imgur.com/7HfwbtW.jpg" alt="Img Brochure front">
+  </a>
+  <a href="http://i.imgur.com/1ZFOpzs.jpg">
   <img height="500" src="http://i.imgur.com/1ZFOpzs.jpg" alt="Img Brochure Back">
-
+  </a>
+</div>
 </body>
 
 <footer>
